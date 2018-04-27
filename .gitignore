@@ -1,8 +1,8 @@
 ###
 # Unity folders and files
 ###
+_ImportedAssets
 [Aa]ssets/AssetStoreTools*
-[Aa]ssets/_ImportedAssets/
 [Bb]uild/
 [Ll]ibrary/
 [Ll]ocal[Cc]ache/
